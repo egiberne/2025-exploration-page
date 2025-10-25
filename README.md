@@ -2,7 +2,7 @@
 
 I am grateful to have completed the Exploration page by applying key web development techniques:
 
- -[x] Used **WebP format** instead of GIF to optimize loading performance.  
+- [x] Used **WebP format** instead of GIF to optimize loading performance.  
 - [x] Imported **Google Fonts** to enhance the user experience.  
 - [x] Chose `<span>` over `<div>` for **inline layouts**.  
 - [x] Applied **IDs** instead of classes for uniquely styled sections.  
@@ -29,4 +29,5 @@ The Fullstack Developer Path aims to teach you everything you need to become a J
 📚 [Learn with Scrimba and get 20% OFF Pro membership](https://scrimba.com/?via=u017m04)
 
 Happy Coding!
+
 
